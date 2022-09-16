@@ -1,0 +1,6 @@
+Youtube.apk filter=lfs diff=lfs merge=lfs -text
+MicroG.apk filter=lfs diff=lfs merge=lfs -text
+Music.apk filter=lfs diff=lfs merge=lfs -text
+check_voc_reborn.zip filter=lfs diff=lfs merge=lfs -text
+Gojek.zip filter=lfs diff=lfs merge=lfs -text
+Inject.zip filter=lfs diff=lfs merge=lfs -text
