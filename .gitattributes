@@ -5,3 +5,4 @@ check_voc_reborn.zip filter=lfs diff=lfs merge=lfs -text
 Gojek.zip filter=lfs diff=lfs merge=lfs -text
 Inject.zip filter=lfs diff=lfs merge=lfs -text
 gojek_new.zip filter=lfs diff=lfs merge=lfs -text
+gojek-termux filter=lfs diff=lfs merge=lfs -text
