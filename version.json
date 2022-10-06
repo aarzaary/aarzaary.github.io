@@ -1,6 +1,6 @@
 {
-"gojek": "v4",
-"inject": "v3",
-"check_voc": "v4",
+"gojek": "v4.1",
+"inject": "v3.1",
+"check_voc": "v4.1",
 "claim_code": "v1"
 }
