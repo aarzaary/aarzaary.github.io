@@ -2,5 +2,5 @@
 "gojek": "v4.1",
 "inject": "v3.1",
 "check_voc": "v4.1",
-"claim_code": "v1"
+"claim_voc": "v1.1"
 }
