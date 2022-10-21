@@ -13,6 +13,4 @@ toc_label: "Index"
 toc_icon: "list-alt"
 ---
 
-{% include base_path %}
-
 ## Test
