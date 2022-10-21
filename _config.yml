@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Not Just a Presonal Page"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ari Ardianto"
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Ari Ardianto"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Never stop learning, Just do it"
   location         : "Yogyakarta (ID)"
   email            :
@@ -113,8 +113,8 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -127,7 +127,7 @@ author:
       url: "https://github.com/aarzaary"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/aarzaary"
 
 # Site Footer
 footer:
