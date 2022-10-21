@@ -54,8 +54,8 @@ comments:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
-  siteKey                :
-  secret                 :
+  siteKey                : 6LfJ3ZwiAAAAAN3D8kGfwE7F7S2iUAtFNPD05X6Q
+  secret                 : 6LfJ3ZwiAAAAAL0JcoRnNT7K7WbItUEp11NDf6Hs
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
@@ -73,7 +73,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : google-site-verification=S-E8smuGM1d9ERAfLQUzSi4_i1ql8vFqxQnUpEf9Apg
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
@@ -96,9 +96,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-45089951-1"
     anonymize_ip         : # true, false (default)
 
 
