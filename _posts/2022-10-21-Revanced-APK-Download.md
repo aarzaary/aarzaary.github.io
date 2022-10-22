@@ -13,6 +13,7 @@ toc_label: "Index"
 toc_icon: "list-alt"
 ---
 
+# Downloads Link
 ## MicroG
 Download MicroG Apk from [Here](https://github.com/aarzaary/aarzaary.github.io/raw/main/my_files/MicroG.apk)
 ## Youtube Revanced 
@@ -21,7 +22,7 @@ Download MicroG Apk from [Here](https://github.com/aarzaary/aarzaary.github.io/r
 Download MicroG Apk from [Here](https://github.com/aarzaary/aarzaary.github.io/raw/main/Music.apk)
 
 # Credit
-## 📌 ReVanced Official Socials
+## ReVanced Official Socials
 
 [![ReVanced Website](https://user-images.githubusercontent.com/13122796/178031589-aa43db16-46b0-4b75-bff9-cc889fbfbb40.png)](https://revanced.app)
 [![ReVanced GitHub](https://i.ibb.co/dMMmCrW/Git-Hub-Mark.png)](https://revanced.app)
