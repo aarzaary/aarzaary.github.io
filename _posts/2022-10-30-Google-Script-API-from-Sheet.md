@@ -22,10 +22,10 @@ toc_icon: "list-alt"
 7. Copy your web app URL
 
 ## Sample Code
-{% include figure image_path="https://github.com/aarzaary/Google_Script_API/blob/main/sample_code.png" %}
+{% include figure image_path="assets/images/Google-Sheet-API/sample_code.png" %}
 
 ## Sample Result
-{% include figure image_path="https://github.com/aarzaary/Google_Script_API/blob/main/sample_result.png" %}
+{% include figure image_path="assets/images/Google-Sheet-API/sample_result.png" %}
 
 ## Notes
 - Don't forget to Redeploy after you change the code
